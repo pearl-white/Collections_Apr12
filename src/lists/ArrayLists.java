@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ArrayLists {
 	public static void main(String[] args) {
-		// line...
+		// line...line
 		List<Integer> salaries = new ArrayList<>();
 		salaries.add(5000);
 		salaries.add(6000);
